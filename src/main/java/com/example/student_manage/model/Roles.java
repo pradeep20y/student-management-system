@@ -1,7 +1,7 @@
 package com.example.student_manage.model;
 
 public enum Roles {
-    ADMIN,
-    TEACHER,
-    STUDENT
+    ROLE_ADMIN,
+    ROLE_TEACHER,
+    ROLE_STUDENT
 }
