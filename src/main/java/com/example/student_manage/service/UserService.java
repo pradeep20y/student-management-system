@@ -14,7 +14,6 @@ import com.example.student_manage.dto.TeacherRequest;
 import com.example.student_manage.dto.TeacherResponse;
 import com.example.student_manage.dto.UserRequest;
 import com.example.student_manage.dto.UserResponse;
-import com.example.student_manage.model.Roles;
 import com.example.student_manage.model.Student;
 import com.example.student_manage.model.Teacher;
 import com.example.student_manage.model.Users;
